@@ -19,5 +19,11 @@ It got me wondering... let's remove the cloud of personal opinion. Can a data sc
 
 <!-- this is a comment -->
 
-Example pic <br>
+##Spoilers below
+
+
+
+
+
+
 !(images/lotrplotly.png)
