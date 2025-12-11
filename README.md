@@ -10,7 +10,7 @@ A fire crackled gently in the corner, the chairs soft, the room was warm and inv
 "Yea but they're a massive part, but only the first film.."
 
 It got me wondering... let's remove the cloud of personal opinion. Can a data science project objectively group the characters in a way that makes sense and answers our question: 
-### who are the main characters in The Lord of the Rings films?
+### Who are the main characters in The Lord of the Rings films?
 
 
 <!-- this is a comment -->
