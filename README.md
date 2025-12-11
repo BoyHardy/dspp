@@ -1,6 +1,7 @@
-# Who are the main characters in the Lord of the Rings?
+# The Lord of the Rings: Are there 'main characters'?
 
-### Can a data science approach answer this?
+### Executive Summary
+This starts as all good stories do - in the pub.
 
 <!-- this is a comment -->
 
