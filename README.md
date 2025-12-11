@@ -11,7 +11,7 @@ Two beers sat on the table (next to a few empty glasses) and the nerdy conversat
 "If you could be any character, who would you be and why?" <br>
 "Were they a main character" <br>
 "Yea but they're a bad guy..." <br>
-"Yea but they're a massive part, but only the first film.."
+"Yea they're a massive part, but only the first film.."
 
 It got me wondering... let's remove the cloud of personal opinion. Can a data science project objectively group the characters in a way that makes sense and answers our question: 
 ### Who are the main characters in The Lord of the Rings films?
