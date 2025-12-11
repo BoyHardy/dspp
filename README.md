@@ -1,4 +1,4 @@
-# The Lord of the Rings: Are there 'main characters'?
+# The Lord of the Rings Main Characters
 
 This starts as all good stories do - in the pub.
 
