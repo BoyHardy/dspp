@@ -14,6 +14,7 @@ Two beers sat on the table (next to a few empty glasses) and the air was filled 
 
 It got me wondering... let's remove the cloud of personal opinion. Can a data science project objectively group the characters in a way that makes sense and answers our question: 
 ### Who are the main characters in The Lord of the Rings films?
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BoyHardy/lotr-character-clustering/blob/main/notebooks/public_dataset_LOTR_clustering.ipynb)
 
 #### Spoilers: it worked
 
